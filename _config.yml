@@ -1,5 +1,5 @@
 # _config.yml
-source: app_users/templates/
+source: app_users/templates
 destination: _site
 exclude:
   - /venv
