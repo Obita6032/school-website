@@ -1,8 +1,9 @@
 # _config.yml
-source: app_users/templates/app_users
+source: app_users/templates/
 destination: _site
 exclude:
   - /venv
   - /vendor
   - /migrations
 permalink: pretty
+
