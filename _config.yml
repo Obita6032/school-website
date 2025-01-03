@@ -1,0 +1,8 @@
+# _config.yml
+source: teaching_blog/app_users/templates
+destination: _site
+exclude:
+  - /venv
+  - /vendor
+  - /migrations
+permalink: pretty
